@@ -27,4 +27,4 @@ This dashboard helps HR teams take data-driven actions to improve employee reten
 🔖 Skills Used
 Microsoft Excel | Pivot Tables | KPI Creation | HR Analytics | Data Storytelling | Dashboard Design
 Screenshot / Demos
-Show what the dashboard looks like. -  
+Show what the dashboard looks like. - ( https://github.com/kashishsachan251-ctrlKash/HR-Analytics-Dashboard/blob/main/Screenshot%202026-02-07%20133401.png)
